@@ -6,7 +6,7 @@ button: 'Our Work'
 buttonLink: 'work'
 ---
 
-!Smarter chatbots! Today's chatbots are powered by advanced artificial intelligence and machine learning algorithms that enable them to learn from every interaction and provide personalized recommendations and solutions. They can analyze customer data, purchase history, and behavior patterns to provide a more personalized and relevant customer experience.
+*Smarter chatbots* Today's chatbots are powered by advanced artificial intelligence and machine learning algorithms that enable them to learn from every interaction and provide personalized recommendations and solutions. They can analyze customer data, purchase history, and behavior patterns to provide a more personalized and relevant customer experience.
 
 Faster chatbots: Chatbots can handle an unlimited number of customer inquiries simultaneously, 24/7, without taking breaks or holidays. This means that businesses can provide fast and efficient support to their customers, reducing wait times and improving customer satisfaction.
 
