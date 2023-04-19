@@ -1,7 +1,7 @@
 ---
 title: 'Here is how chatbots can help businesses level up'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/mona-eendra-vC8wj_Kphak-unsplash.jpg'
 button: 'Our Work'
 buttonLink: 'work'
 ---
