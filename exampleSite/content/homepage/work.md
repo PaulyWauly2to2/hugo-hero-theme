@@ -1,5 +1,5 @@
 ---
-title: 'Here's how chatbots can help businesses level up'
+title: 'Here is how chatbots can help businesses level up'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Our Work'
