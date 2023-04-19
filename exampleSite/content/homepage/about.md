@@ -6,11 +6,11 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-#### Chatbots done right
-Personalized solutions and expert support for an exceptional customer experience.
+- Chatbots done right
+-- Personalized solutions and expert support for an exceptional customer experience.
 
-#### Elevate your customer experience
-Innovative chatbot technology that puts your customers first.
+- Elevate your customer experience
+-- Innovative chatbot technology that puts your customers first.
 
 #### Your success is our priority
 Chatbots tailored to your business needs, with continuous improvement and dedicated support.
