@@ -1,53 +1,24 @@
 ---
-title: 'Business Sales'
+title: 'Reduced costs'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/service-icon-3.png'
 featured: true
 draft: false
-heroHeading: 'Business Sales'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
+heroHeading: 'Reduced costs'
+heroSubHeading: 'By automating routine tasks and inquiries, chatbots can help businesses reduce labor costs and other operational expenses. This can help businesses save money and invest in other areas of their business, such as marketing, product development, or research and development..'
 heroBackground: 'services/service1.jpg'
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+By automating routine tasks and inquiries, chatbots can help businesses reduce labor costs and other operational expenses. This can help businesses save money and invest in other areas of their business, such as marketing, product development, or research and development" highlights one of the most significant benefits of chatbots for businesses: their ability to reduce costs and improve operational efficiency. Here are some specific ways chatbots can help businesses reduce costs:
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+Labor cost savings: By automating routine tasks and inquiries, chatbots can help businesses reduce labor costs associated with customer support, sales, and administrative tasks. This can help businesses save money and invest in other areas of their business.
 
-## Geniti facinus praeruptam atris ab manus in
+Improved productivity: By handling routine tasks, chatbots can help businesses improve productivity and efficiency, enabling staff to focus on more complex and strategic tasks that require human expertise.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+Reduced training costs: Chatbots can be trained to handle specific tasks and inquiries, reducing the need for staff training and onboarding. This can help businesses save time and money, while improving operational efficiency.
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+24/7 availability: Chatbots can provide support to customers 24/7, even outside of regular business hours. This means that businesses can serve customers around the clock, without incurring additional labor costs.
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+Scalability: Chatbots can handle an unlimited number of customer inquiries simultaneously, enabling businesses to scale their operations without increasing staff. This can help businesses serve more customers and grow their business without incurring significant additional costs.
 
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+Overall, chatbots can help businesses reduce costs and improve operational efficiency by automating routine tasks and inquiries, improving productivity, reducing training costs, and enabling 24/7 availability and scalability. By reducing costs, businesses can invest in other areas of their business, such as marketing, product development, or research and development, which can help them grow and achieve their business goals.
