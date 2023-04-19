@@ -6,7 +6,7 @@ button: 'More'
 buttonLink: 'work'
 ---
 
-#### Smarter chatbots
+#### Smarter chatbots  [x] Write the press release
 : Today's chatbots are powered by advanced artificial intelligence and machine learning algorithms that enable them to learn from every interaction and provide personalized recommendations and solutions.
 
 #### Faster chatbots
