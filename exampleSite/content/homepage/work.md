@@ -1,12 +1,10 @@
 ---
-title: 'We Help Business Grow'
+title: 'Here's how chatbots can help businesses level up'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Our Work'
 buttonLink: 'work'
 ---
-
-Here's how chatbots can help businesses level up:
 
 Smarter chatbots: Today's chatbots are powered by advanced artificial intelligence and machine learning algorithms that enable them to learn from every interaction and provide personalized recommendations and solutions. They can analyze customer data, purchase history, and behavior patterns to provide a more personalized and relevant customer experience.
 
